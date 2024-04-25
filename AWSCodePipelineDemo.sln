@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSCodePipelineDemo", "AWSCodePipelineDemo\AWSCodePipelineDemo.csproj", "{CED693C9-EACE-407A-8265-1872A071F296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED693C9-EACE-407A-8265-1872A071F296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED693C9-EACE-407A-8265-1872A071F296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED693C9-EACE-407A-8265-1872A071F296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED693C9-EACE-407A-8265-1872A071F296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65391D7E-CAB2-4CDF-B593-06FE8BB3A7F7}
+	EndGlobalSection
+EndGlobal
